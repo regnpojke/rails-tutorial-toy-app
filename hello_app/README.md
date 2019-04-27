@@ -1,9 +1,24 @@
 # README
 
-# Ruby on rails tutorial
+This README would normally document whatever steps are necessary to get the
+application up and running.
 
-## "hello world!"
+Things you may want to cover:
 
-This is the first application for the
-[*Ruby on rails tutorial*](https://railstutorial.jp/)
-by[Michael Hartl](https://www.michaelhartl.com/).Hello,World!
+* Ruby version
+
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
