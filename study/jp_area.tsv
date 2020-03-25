@@ -1,0 +1,14 @@
+code	country_url	url	location_type	name	parent_id	lat	lng	ancestry	sort_order	searchable
+ar-hokkaido	JP	ar-hokkaido	area	北海道	88	43.0646147	141.3468074	88	1	0
+ar-tohoku	JP	ar-tohoku	area	東北	88	40.8243077	140.7399984	88	2	0
+ar-kitakanto	JP	ar-kitakanto	area	北関東	88	36.565725	139.8835651	88	3	0
+ar-shutoken	JP	ar-shutoken	area	首都圏	88	35.6894875	139.6917064	88	4	0
+ar-hokuriku	JP	ar-hokuriku	area	北陸	88	37.9025518	139.0230946	88	5	0
+ar-koshin	JP	ar-koshin	area	甲信	88	35.6641575	138.5684486	88	6	0
+ar-tokai	JP	ar-tokai	area	東海	88	35.1801883	136.9065647	88	7	0
+ar-kansai	JP	ar-kansai	area	関西	88	34.6862971	135.5196609	88	8	0
+ar-sanin	JP	ar-sanin	area	山陰	88	35.5038906	134.2377356	88	9	0
+ar-sanyo	JP	ar-sanyo	area	山陽	88	34.3965603	132.4596225	88	10	0
+ar-shikoku	JP	ar-shikoku	area	四国	88	34.3401491	134.0434436	88	11	0
+ar-kyushu	JP	ar-kyushu	area	九州	88	33.6065756	130.418297	88	12	0
+ar-okinawa	JP	ar-okinawa	area	沖縄	88	26.2124013	127.6809317	88	13	0
